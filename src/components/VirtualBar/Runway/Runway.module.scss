@@ -1,0 +1,13 @@
+.runway {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90vh;
+  overflow: auto;
+}
+
+.runway-status-bar {
+  position: fixed;
+  top: calc(10vh + .5rem);
+  left: 5vh;
+}

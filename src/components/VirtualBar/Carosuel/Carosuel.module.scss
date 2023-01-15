@@ -1,0 +1,19 @@
+.carosuel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75vw;
+  height: 20vh;
+  flex: 1 0 auto;
+  margin: .5rem;
+}
+
+.carosuel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: brown;
+  height: 100%;
+  flex: 1 0 auto;
+  // flex-basis: inherit;
+}
